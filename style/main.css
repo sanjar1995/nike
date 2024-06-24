@@ -25,7 +25,7 @@ body {
   font-family: Roboto;
 }
 
-.header__nav {
+.header__nav { 
   background: #322e41;
 }
 
@@ -44,6 +44,7 @@ body {
   font-size: 20px;
   color: #000;
   text-transform: uppercase;
+  background: dodgerblue;
 }
 
 .header__list {
