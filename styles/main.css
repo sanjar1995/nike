@@ -51,7 +51,7 @@ body{
     row-gap: 15px;
 }
 .header__title{
-    color: #fff;
+    color: tomato;
     font-size: 50px;
     line-height: 58px;
 }
